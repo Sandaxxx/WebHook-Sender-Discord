@@ -1,4 +1,4 @@
-# https://discord.com/api/webhooks/1044664784110501938/CEbZsQDDsCPMp5cIxyfxsJEngVzzBjTHiDFWA-oTiYIiqWy0h6nIe1PwhvLbuAUt9bs6
+
 
 import requests
 import os
